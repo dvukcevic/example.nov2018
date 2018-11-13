@@ -26,6 +26,10 @@ cube <- function(x) {
 }
 
 
+#' Test for oddness
+#'
+#' @param x
+#'
 #' @export
 is.odd <- function(x) {
   gtools::odd(x)
