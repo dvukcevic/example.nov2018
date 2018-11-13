@@ -1,6 +1,6 @@
-#' Title
+#' Squaring a number
 #'
-#' @param x
+#' @param x numeric vector
 #'
 #' @return
 #' @export

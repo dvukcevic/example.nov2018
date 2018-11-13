@@ -2,13 +2,13 @@
 % Please edit documentation in R/square.R
 \name{square}
 \alias{square}
-\title{Title}
+\title{Squaring a number}
 \usage{
 square(x)
 }
 \arguments{
-\item{x}{}
+\item{x}{numeric vector}
 }
 \description{
-Title
+Squaring a number
 }
